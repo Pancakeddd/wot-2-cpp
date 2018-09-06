@@ -1,6 +1,0 @@
-[package]
-name = "transpiler"
-version = "0.1.0"
-authors = ["JacobSinclair <jacobsinclairsemail@gmail.com>"]
-
-[dependencies]
